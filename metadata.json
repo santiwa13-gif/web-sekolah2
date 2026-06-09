@@ -1,0 +1,6 @@
+{
+  "name": "Website Profil SMK Modern",
+  "description": "Website profil resmi SMK modern yang profesional, premium, dan responsif dengan tema Royal Blue dan Luxury Gold Gradient.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
